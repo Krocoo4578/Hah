@@ -1,7 +1,7 @@
 # =============================== #
-#              BY Thonxyzz404                             #
-#     Mau Ngapain Sih Babii 😹🫵              #
-#   Yang Recode Kontolnya Putus 5cm     #
+#        BY Thonxyzz404           #
+#     Mau Ngapain Sih Babii 😹🫵  #
+# Yang Recode Kontolnya Putus 5cm #
 # =============================== #
 NFS=/data/data/com.termux/files/usr/tmp/tmp.PYzlO36IkX
 base32 -d >${NFS}<<THONXYZZ404EOFYZXYRWQQPYXZA
